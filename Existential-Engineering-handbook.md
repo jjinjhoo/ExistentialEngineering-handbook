@@ -1073,7 +1073,7 @@
 ```
 System Ready...
 Login: root (진정한 주인) 
-\#\> "나는 나의 창조자다."
+#> echo "나는 나의 창조자다."
 ```
 
 \[End of Code\]
