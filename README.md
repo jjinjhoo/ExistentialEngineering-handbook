@@ -76,7 +76,9 @@ System Hacked. Welcome to the Real World.
 나는 나의 말로 사람을 살립니다. 이제 당신의 에너지가 또 다른 누군가를 살리는 파동이 될 차례입니다. 그 가치는 오직 창조자인 당신 스스로 결정하십시오.
 
 USDC 코인으로 입금
+
 사용 네트워크 : 이더리움 (Ethereum)
+
 지갑주소 : 0xa1d001f70db5b419bbd38f65e2c41b404bb96fdd
 
 <img width="200" height="200" alt="USDC_wallet_QR" src="https://github.com/user-attachments/assets/26bc9cf4-ac77-4acf-8d17-69eb679f1f88" />
